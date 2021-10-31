@@ -1,1 +1,1 @@
-# csc_447_ML_notebooks
+# CSC_447_ML_Notebooks
